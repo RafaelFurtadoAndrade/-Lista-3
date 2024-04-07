@@ -1,0 +1,17 @@
+#include <iostream>
+#include <iomanip>
+using namespace std; 
+
+int main () {
+	cout<<setprecision (2) <<fixed;
+	//Definição das variáveis 
+	int a,b,soma,sub,mult,divi;
+	
+	cout<<"Digite o valor de a: "; 
+	cin >> a;
+	cout<<"Digite o valor de b: "; 
+	cin >> b;
+	
+	//Operações aritmeticas 
+	
+}
